@@ -1,50 +1,5 @@
 [
   {
-    "_id": "58e26823e294eb49d464b344",
-    "index": 1,
-    "guid": "70145508-603b-4072-af9f-fabc4e8cd9e4",
-    "isActive": false,
-    "balance": "$1,036.44",
-    "picture": "http://placehold.it/32x32",
-    "age": 27,
-    "eyeColor": "brown",
-    "name": "Alford Hogan",
-    "gender": "male",
-    "company": "HYPLEX",
-    "email": "alfordhogan@hyplex.com",
-    "phone": "+1 (956) 470-2195",
-    "address": "187 Atlantic Avenue, Dyckesville, West Virginia, 5211",
-    "about": "Aute occaecat sunt culpa pariatur proident. In mollit amet tempor amet consectetur veniam duis velit qui laborum est culpa mollit. Do ipsum aliquip ea dolore commodo non ullamco ipsum. Ut sit enim eu veniam.\r\n",
-    "registered": "2014-06-28T02:37:28 +04:00",
-    "latitude": -68.586876,
-    "longitude": -135.246073,
-    "tags": [
-      "amet",
-      "velit",
-      "excepteur",
-      "voluptate",
-      "occaecat",
-      "occaecat",
-      "ullamco"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Amy English"
-      },
-      {
-        "id": 1,
-        "name": "Holder Landry"
-      },
-      {
-        "id": 2,
-        "name": "Harper Merritt"
-      }
-    ],
-    "greeting": "Hello, Alford Hogan! You have 3 unread messages.",
-    "favoriteFruit": "banana"
-  },
-  {
     "_id": "58e26823b5505d68951555c6",
     "index": 2,
     "guid": "980c2256-5c7e-43bc-bc0e-fe8f6f0072ba",

@@ -1,50 +1,5 @@
 [
   {
-    "_id": "58e268237a1e14af43f9ad09",
-    "index": 0,
-    "guid": "2133e662-0041-4d86-ae51-ed4d115e16f7",
-    "isActive": false,
-    "balance": "$3,025.30",
-    "picture": "http://placehold.it/32x32",
-    "age": 26,
-    "eyeColor": "green",
-    "name": "Gamble Bridges",
-    "gender": "male",
-    "company": "QIMONK",
-    "email": "gamblebridges@qimonk.com",
-    "phone": "+1 (988) 448-2815",
-    "address": "742 Micieli Place, Kenwood, Texas, 1033",
-    "about": "Proident adipisicing do et eu dolore ut in mollit adipisicing reprehenderit. Sunt tempor consectetur aliquip laboris enim mollit cupidatat culpa. Deserunt eiusmod ipsum est aliqua minim nulla veniam. Incididunt laboris in Lorem tempor sit irure esse sit est. Sunt cupidatat sunt consequat veniam anim mollit qui et magna tempor sit ipsum. Do nulla tempor officia sint magna in qui reprehenderit est ex. Consequat laboris sint duis in do excepteur sint irure pariatur nulla adipisicing pariatur fugiat et.\r\n",
-    "registered": "2014-07-23T12:08:18 +04:00",
-    "latitude": 1.819615,
-    "longitude": -122.967899,
-    "tags": [
-      "eu",
-      "enim",
-      "voluptate",
-      "consequat",
-      "mollit",
-      "laborum",
-      "nulla"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Betty Blankenship"
-      },
-      {
-        "id": 1,
-        "name": "Kirby Snow"
-      },
-      {
-        "id": 2,
-        "name": "Michele Jennings"
-      }
-    ],
-    "greeting": "Hello, Gamble Bridges! You have 8 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
     "_id": "58e26823e294eb49d464b344",
     "index": 1,
     "guid": "70145508-603b-4072-af9f-fabc4e8cd9e4",
